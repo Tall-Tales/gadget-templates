@@ -1,0 +1,13 @@
+plugin:
+  name: Assets Template
+  description: "\
+    Publish ready template for Godot Assets published to Gadget."
+  tags:
+    - Assets
+    - Template
+  version: 0.0.1
+  license: ISC
+
+publish:
+  on: release
+  branch: main

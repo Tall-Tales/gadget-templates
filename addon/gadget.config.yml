@@ -1,0 +1,13 @@
+plugin:
+  name: Addons Template
+  description: "\
+    Publish ready template for Godot Addons published to Gadget."
+  tags:
+    - Addons
+    - Template
+  version: 0.0.1
+  license: ISC
+
+publish:
+  on: release
+  branch: main

@@ -1,0 +1,13 @@
+plugin:
+  name: Project Template
+  description: "\
+    Publish ready template for Godot Projects published to Gadget."
+  tags:
+    - Project
+    - Template
+  version: 0.0.1
+  license: ISC
+
+publish:
+  on: release
+  branch: main

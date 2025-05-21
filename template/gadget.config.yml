@@ -1,0 +1,13 @@
+plugin:
+  name: Game Template
+  description: "\
+    Publish ready template for Godot Game Templates published to Gadget."
+  tags:
+    - Game
+    - Template
+  version: 0.0.1
+  license: ISC
+
+publish:
+  on: release
+  branch: main
